@@ -67,8 +67,8 @@ The output will be in the `dist` directory.
 
 ## Project Structure
 - `src/`: Contains the source code
-  - `components/`: Reusable React components and D3 chart implementations
-  - `assets/`: Static assets like images
+  - `components/`: Reusable React components
+  - `components/charts/`: D3 chart implementations
 - `public/`: Static files served directly
 - `tailwind.config.js`: Tailwind CSS configuration
 - `vite.config.ts`: Vite configuration
