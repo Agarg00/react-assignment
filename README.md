@@ -2,6 +2,9 @@
 
 This is a web page built with modern web technologies, featuring interactive data visualizations.
 
+## Link to preview: 
+- [Preview](https://react-crm-assignment.netlify.app/)
+
 ## Tech Stack
 - **React**: JavaScript library for building user interfaces
 - **Vite**: Next-generation frontend tooling for fast development
